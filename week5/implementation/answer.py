@@ -12,7 +12,7 @@ MODEL = "llama-3.1-8b-instant"
 DB_NAME = str(Path(__file__).parent.parent / "vector_db")
 
 embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
-RETRIEVAL_K = 10
+RETRIEVAL_K = 5
 
 SYSTEM_PROMPT = """
 You are a knowledgeable, friendly assistant representing the company Insurellm.
