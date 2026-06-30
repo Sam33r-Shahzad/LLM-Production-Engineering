@@ -181,18 +181,6 @@ https://console.anthropic.com/settings/cost
 
 ---
 
-## References
-
-### LLM Engineering Resources
-
-https://edwarddonner.com/2024/11/13/llm-engineering-resources/
-
-### Technical FAQ & Troubleshooting
-
-https://edwarddonner.com/faq/
-
----
-
 ## License
 
 This project is intended for educational, research, and production engineering workflows. Refer to the repository license for usage details.

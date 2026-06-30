@@ -148,17 +148,15 @@ local/
 week6/full/
 week6/lite/
 week6/*/*.pkl
-week6/*/*.jsonl
 week6/*.pth
 week6/*.joblib
 week8/*.pth
 
 
 
-week6/day2.ipynb
-week6/day3.ipynb
-week6/day4.ipynb
-week6/day5.ipynb
+
+
+
 week7/
 week8/
 
